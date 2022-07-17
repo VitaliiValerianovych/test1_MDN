@@ -1,0 +1,42 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+.sender-column {
+    text-align: right;
+    font-style: italic;
+}
+
+.recip-mess {
+    font-style: italic;
+}
+
+.date {
+    font-style: normal;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+p,
+ul,
+ol,
+dl,
+address {
+    font-size: 1.1em;
+}
+
+p,
+li,
+dd,
+dt,
+address {
+    line-height: 1.5;
+}
